@@ -5,7 +5,9 @@
 [课程]模拟电子技术基础(华成英/清华大学)：https://www.bilibili.com/video/BV1Vp411f71S
 
 ### 电力电子技术
-TI电子电路基础知识讲座：https://www.bilibili.com/video/BV1Ub411N7zN https://www.bilibili.com/video/BV1f441187A8?p=8
+TI电子电路基础知识讲座：https://www.bilibili.com/video/BV1Ub411N7zN 
+&
+https://www.bilibili.com/video/BV1f441187A8?p=8
 
 电力电子技术26讲-王兆安讲授：https://www.bilibili.com/video/BV1N7411K7LC
 

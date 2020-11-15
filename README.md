@@ -22,6 +22,9 @@ PSpice仿真视频教程 Cadence Allegro 16.3 Orcad视频教程：https://www.bi
 
 基于HAL库的STM32F407视频教程(硬石STM32)：https://www.bilibili.com/video/BV1yp411f7gs
 
+### C语言
+《C++ Primer Plus》
+
 ### PCB
 Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：https://www.bilibili.com/video/BV16t411N7RD
 

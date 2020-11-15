@@ -38,7 +38,10 @@ Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：ht
 [公开课|学术论文|LaTeX]让学术论文写作更有效率，摆脱排版烦恼：https://www.bilibili.com/video/BV1Mb411H7Hh
 
 ### 射频电路
+
 欧拉公式：https://www.bilibili.com/video/BV1eW411Q7Ys
+
+西安交通大学 工程电磁场导论 电磁场与电磁波 马西奎：https://www.bilibili.com/video/BV1dp411Z7tP
 
 华南理工 射频电路与天线：https://www.bilibili.com/video/BV17t411D7zN
 
@@ -51,9 +54,9 @@ Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：ht
 ## 拓展
 大学物理 哈工大：https://www.bilibili.com/video/BV1Fx41177HM
 
-固体物理-吉林大学吴代鸣：https://www.bilibili.com/video/BV1Ss41147Mn
-
 钱伯初量子力学：https://www.bilibili.com/video/BV1ts411i7b3
+
+固体物理-吉林大学吴代鸣：https://www.bilibili.com/video/BV1Ss41147Mn
 
 半导体物理——西安交大徐友龙：https://www.bilibili.com/video/BV1Yx411S735
 

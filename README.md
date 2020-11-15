@@ -44,7 +44,7 @@ Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：ht
 
 提取码：qz4s
 
-田庆城射频视频合集“RF amplifier design”(except ADS&WLAN part)：https://www.bilibili.com/video/BV1YE411b7uR
+田庆城射频视频合集“RF Amplifier Design”(Except ADS&WLAN Part)：https://www.bilibili.com/video/BV1YE411b7uR
 
 ## 拓展
 大学物理 哈工大：https://www.bilibili.com/video/BV1Fx41177HM
@@ -57,7 +57,7 @@ Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：ht
 
 拉扎维模拟CMOS集成电路设计中科大授课视频：https://www.bilibili.com/video/BV1JJ411L7uY
 
-集成电路版图设计(基于Cadence IC510/virtuoso)-江苏信息职业技术学院：https://www.bilibili.com/video/BV1iE411f7GE
+集成电路版图设计(基于Cadence IC510/Virtuoso)-江苏信息职业技术学院：https://www.bilibili.com/video/BV1iE411f7GE
 
 模拟集成电路设计-上海交通大学：https://www.bilibili.com/video/BV1NJ411e7wo
 

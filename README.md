@@ -15,7 +15,9 @@ https://www.bilibili.com/video/BV1f441187A8?p=8
 PSpice仿真视频教程 Cadence Allegro 16.3 Orcad视频教程：https://www.bilibili.com/video/BV1Bb411W7mS
 
 三节课带你玩转PSpice仿真模型建立——张东辉：https://www.bilibili.com/video/BV1Rz4y197zh
-### STM系列芯片
+### 单片机
+51单片机：https://www.bilibili.com/video/BV1ot411C76r?from=search&seid=10611990760401180149
+
 [正点原子]手把手教你学STM32系列视频之STM32F4-基于探索者F407：https://www.bilibili.com/video/BV1Rx411R75t 
 
 基于HAL库的STM32F407视频教程(硬石STM32)：https://www.bilibili.com/video/BV1yp411f7gs

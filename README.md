@@ -15,6 +15,8 @@ https://www.bilibili.com/video/BV1f441187A8?p=8
 PSpice仿真视频教程 Cadence Allegro 16.3 Orcad视频教程：https://www.bilibili.com/video/BV1Bb411W7mS
 
 三节课带你玩转PSpice仿真模型建立——张东辉：https://www.bilibili.com/video/BV1Rz4y197zh
+
+PSpice添加SPICE模型：https://blog.csdn.net/caipeiqq/article/details/79728251
 ### 单片机
 51单片机：https://www.bilibili.com/video/BV1ot411C76r?from=search&seid=10611990760401180149
 

@@ -18,7 +18,7 @@ PSpice仿真视频教程 Cadence Allegro 16.3 Orcad视频教程：https://www.bi
 
 PSpice添加SPICE模型：https://blog.csdn.net/caipeiqq/article/details/79728251
 ### 单片机
-51单片机：https://www.bilibili.com/video/BV1ot411C76r?from=search&seid=10611990760401180149
+51单片机：https://www.bilibili.com/video/BV1ot411C76r
 
 [正点原子]手把手教你学STM32系列视频之STM32F4-基于探索者F407：https://www.bilibili.com/video/BV1Rx411R75t 
 

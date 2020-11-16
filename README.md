@@ -58,7 +58,7 @@ LaTeX 西北农林科技大学：https://www.bilibili.com/video/BV1Mb411H7Hh
 
 半导体物理 西安交通大学 徐友龙：https://www.bilibili.com/video/BV1Yx411S735
 
-Razavi模拟CMOS集成电路设计 中国科学技术大学：https://www.bilibili.com/video/BV1JJ411L7uY
+Razavi模拟CMOS集成电路设计 中国科学技术大学 黄鲁：https://www.bilibili.com/video/BV1JJ411L7uY
 
 集成电路版图设计(基于Cadence IC510/Virtuoso) 江苏信息职业技术学院：https://www.bilibili.com/video/BV1iE411f7GE
 

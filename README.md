@@ -24,7 +24,7 @@ PSpice添加SPICE模型：https://blog.csdn.net/caipeiqq/article/details/7972825
 
 基于HAL库的STM32F407视频教程(硬石STM32)：https://www.bilibili.com/video/BV1yp411f7gs
 
-Openedv：http://www.openedv.com/
+OpenEdv：http://www.openedv.com/
 
 ### C语言
 《C++ Primer Plus》

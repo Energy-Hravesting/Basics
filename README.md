@@ -2,12 +2,10 @@
 ## 必备知识
 
 ### 模拟电子技术
-[课程]模拟电子技术基础(华成英/清华大学)：https://www.bilibili.com/video/BV1Vp411f71S
+模拟电子技术基础 清华大学 华成英：https://www.bilibili.com/video/BV1Vp411f71S
 
+TI电子电路基础知识讲座 青岛大学 傅强：http://edu.21dianyuan.com/index/course_info/cid/172
 ### 电力电子技术
-TI电子电路基础知识讲座 青岛大学：https://www.bilibili.com/video/BV1Ub411N7zN 
-&
-https://www.bilibili.com/video/BV1f441187A8?p=8
 
 电力电子技术 西安交通大学 王兆安：https://www.bilibili.com/video/BV1N7411K7LC
 
@@ -27,27 +25,27 @@ HAL库 硬石STM32 硬石：https://www.bilibili.com/video/BV1yp411f7gs
 OpenEdv论坛 正点原子：http://www.openedv.com/
 
 ### C语言
-《C++ Primer Plus》
+《C++ Primer Plus》 Stephen Prata
 
 ### PCB
-Altium Designer 2019四层板智能车PCB设计视频教程AD19 AD20 凡亿：https://www.bilibili.com/video/BV16t411N7RD
+Altium Designer 2019四层板智能车PCB设计 凡亿：https://www.bilibili.com/video/BV16t411N7RD
 
 常用贴片元件的焊接方法：https://www.bilibili.com/video/BV1By4y1z7yW
 
 
 ## 常用知识
 ### LaTeX
-[公开课|学术论文|LaTeX]让学术论文写作更有效率，摆脱排版烦恼：https://www.bilibili.com/video/BV1Mb411H7Hh
+LaTeX 西北农林科技大学：https://www.bilibili.com/video/BV1Mb411H7Hh
 
 ### 射频电路
 
-欧拉公式：https://www.bilibili.com/video/BV1eW411Q7Ys
+欧拉公式 斯坦福大学 3Blue1Brown：https://www.bilibili.com/video/BV1eW411Q7Ys
 
-西安交通大学 工程电磁场导论 电磁场与电磁波 马西奎：https://www.bilibili.com/video/BV1dp411Z7tP
+工程电磁场导论 电磁场与电磁波 西安交通大学 马西奎：https://www.bilibili.com/video/BV1dp411Z7tP
 
-华南理工大学 射频电路与天线 褚庆昕：https://www.bilibili.com/video/BV17t411D7zN
+射频电路与天线 华南理工大学 褚庆昕：https://www.bilibili.com/video/BV17t411D7zN
 
-华南理工大学 射频电路与天线 褚庆昕 课件：链接：https://pan.baidu.com/s/1KRQT7R9pIaM3GeutRW9tAg  提取码：qz4s
+射频电路与天线 华南理工大学 褚庆昕 课件：链接：https://pan.baidu.com/s/1KRQT7R9pIaM3GeutRW9tAg  提取码：qz4s
 
 射频视频合集 台湾中华大学 田庆城“RF Amplifier Design”(Except ADS&WLAN Part)：https://www.bilibili.com/video/BV1YE411b7uR
 

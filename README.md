@@ -27,7 +27,7 @@ OpenEdv论坛 正点原子：http://www.openedv.com/
 ### C语言
 《C Primer Plus》 Stephen Prata
 
-在Visual Studio Code 中配置C/C++工具https://guyutongxue.github.io/VSCodeConfigHelper/
+Visual Studio Code 中配置C/C++工具：https://guyutongxue.github.io/VSCodeConfigHelper/
 
 ### PCB
 Altium Designer 2019四层板智能车PCB设计 凡亿：https://www.bilibili.com/video/BV16t411N7RD

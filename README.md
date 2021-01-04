@@ -34,6 +34,13 @@ Altium Designer 2019四层板智能车PCB设计 凡亿：https://www.bilibili.co
 
 常用贴片元件的焊接方法：https://www.bilibili.com/video/BV1By4y1z7yW
 
+立创EDA视频学习视频：https://www.bilibili.com/video/BV1EE41147yV?from=search&seid=4681436400374386211
+
+Altium Designer学习视频：
+
+https://www.bilibili.com/video/BV1R4411a7xg?p=3（志博教育）
+https://www.bilibili.com/video/BV16t411N7RD?from=search&seid=17377855350603975500（凡亿教育）
+
 
 ## 常用知识
 ### LaTeX

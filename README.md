@@ -39,6 +39,7 @@ Altium Designer 2019四层板智能车PCB设计 凡亿：https://www.bilibili.co
 Altium Designer学习视频：
 
 https://www.bilibili.com/video/BV1R4411a7xg?p=3（志博教育）
+
 https://www.bilibili.com/video/BV16t411N7RD?from=search&seid=17377855350603975500（凡亿教育）
 
 
